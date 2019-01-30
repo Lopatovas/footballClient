@@ -1,0 +1,14 @@
+.formBox{
+    border-radius: 25px;
+    border: 2px solid #424242;
+}
+
+.contentPadding{
+    padding:10px 10px 10px 10px;
+}
+
+.paddingTop{
+    padding-top:25px;
+}
+
+.buttonCurve{border-radius: 25px !important;}

@@ -1,0 +1,12 @@
+.playerCard{
+    color:white;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top:1rem;
+    border-top: 1px solid #424242;
+    padding-top: 5px;
+}
+
+.playerItem:hover{
+    color:white;
+}
